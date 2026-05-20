@@ -7,5 +7,7 @@
 # allow specific file types
 !*.c
 !*.h
+
 !*.md
+!img/*.png
 !.gitignore
