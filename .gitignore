@@ -1,0 +1,11 @@
+# ignore everything
+*
+
+# allow directories
+!*/
+
+# allow specific file types
+!*.c
+!*.h
+!*.md
+!.gitignore
